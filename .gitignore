@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+venv/
+
+# Data output
+data/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
